@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anuar Hernadez
 - 👀 I’m interested in archery & music
 - 🌱 Always learning...
-- 📫 How to reach me: 
+- 📫 How to conctac me: 
 - Gmail - anuarhernandezdelgado@gmail.com
 - Phone - (+52) 297 102 4573
 - LinkedIn - https://www.linkedin.com/in/anuar-hernandez-975711227/
