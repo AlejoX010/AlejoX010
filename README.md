@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://github.com/AlejoX010/AlejoX010/blob/main/Anuar%20Hernandez%20(1).png)
+
 
 <h1 align="center">
   <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="24px">
@@ -42,30 +42,15 @@
 
 - **Herramientas / Tools**:
 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50px" title="CSS3" alt="CSS3">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50px" title="JavaScript" alt="JavaScript">
+  <img src="https://github.com/AlejoX010/AlejoX010/blob/main/icons8-microsoft-power-apps-2020-240.svg" width="50px" title="Power Apps" alt="Power Apps"> <img src="https://github.com/AlejoX010/AlejoX010/blob/main/icons8-microsoft-power-automate-2020-240.svg" width="50px" title="Power Automate" alt="Power Automate"> <img src="https://github.com/AlejoX010/AlejoX010/blob/main/office.png" width="50px" title="Sharepoint" alt="Sharepoint">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="50px" title="Visual Studio" alt="Visual Studio"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50px" title="Visual Studio Code" alt="Visual Studio Code"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="50px" title="Figma" alt="Figma"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="50px" title="Postman" alt="Postman"> <img src="https://github.com/AlejoX010/AlejoX010/blob/main/icons8-jira.svg" width="50px" title="Jira" alt="Jira"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="50px" title="Wordpress" alt="Wordpress">
 
 <br>
 
-- **Extras**:
+- **Próximamente / Coming soon**:
 
-<img src="https://github.com/AlejoX010/AlejoX010/blob/main/office.png" width="50px" title="HTML5" alt="HTML5">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50px" title="CSS3" alt="CSS3">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50px" title="JavaScript" alt="JavaScript">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50px" title="NodeJS" alt="NodeJS">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50px" title="MongoDB" alt="MongoDB"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50px" title="Flutter" alt="Flutter">
 
 
-</p>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
 
 
@@ -73,10 +58,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="www.linkedin.com/in/anuar-hernández-975711227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:anuarhernandezdelgado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/alejo_helder?igsh=aXFhMmJ0d21zdXF2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
