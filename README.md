@@ -48,7 +48,7 @@
 
 - **Próximamente / Coming soon**:
 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50px" title="NodeJS" alt="NodeJS">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50px" title="MongoDB" alt="MongoDB"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50px" title="Flutter" alt="Flutter"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50px" title="Java" alt="Java"> <img src="https://github.com/AlejoX010/AlejoX010/blob/main/icons8-power-bi-2021.svg" width="50px" title="Power BI" alt="PowerBi">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50px" title="NodeJS" alt="NodeJS">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50px" title="NodeJS" alt="NodeJS">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50px" title="MongoDB" alt="MongoDB"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50px" title="Flutter" alt="Flutter"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50px" title="Java" alt="Java"> <img src="https://github.com/AlejoX010/AlejoX010/blob/main/icons8-power-bi-2021.svg" width="50px" title="Power BI" alt="PowerBi">
 
 
 </p>
